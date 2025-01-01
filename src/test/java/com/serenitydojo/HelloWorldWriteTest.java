@@ -8,4 +8,3 @@ public class HelloWorldWriteTest {
         System.out.println("Hello world!!!");
     }
 }
-
